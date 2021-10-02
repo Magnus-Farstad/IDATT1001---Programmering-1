@@ -1,0 +1,7 @@
+public class klien {
+    public static void main(String[] args) {
+
+        Oppgaveoversikt oversikt = new Oppgaveoversikt()
+        System.out.println(oversikt);
+    }
+}
